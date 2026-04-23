@@ -1,4 +1,4 @@
-# Hi, I'm Ashish Modi
+# Hi 👋, I'm Ashish Modi
 
 ### Senior Data Engineer focused on Azure, AI, and modern analytics platforms
 
